@@ -1,0 +1,30 @@
+*{margin: 0;}
+
+.topbox{
+    background-color: grey;
+    height: 200px;
+    width: 100%;
+    
+}
+
+body {
+    background-color: lightgrey;
+}
+
+
+
+.sidebox{
+    background-color: white;
+    height: 1200px;
+    width: 75%;
+    margin: 0 auto;
+    
+}
+
+.bottombox{
+    background-color: black;
+    height: 200px;
+    width: 75%;
+    margin: 0 auto;
+
+    }
